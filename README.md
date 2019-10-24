@@ -11,10 +11,12 @@ Step 2: Get the user's guess.
 Step 3: Find a random number to be the secret number.
 
 
-Step 4: If the user's guess is correct, print the congratulatory message.
+Step 4: If the user's initial guess is correct, print the congratulatory message and the number of guesses made. 
 
 
-Step 5: If the user's guess is incorrect, determine whether the user's guess is too high or too low and print the correct corresponding message. Repeat this until the user's guess is correct.
+Step 5: If the user's guess is incorrect, determine whether the user's guess is too high or too low, print the correct corresponding message, and then allow the user to guess again. Repeat this until the user's guess is correct. 
 
 
 Step 6: Each time the user makes a guess that is not correct, add 1 to the number of guesses.
+
+Step 7: Once the user's guess is correct, print the congratulatory message along with the number of guesses made. 
